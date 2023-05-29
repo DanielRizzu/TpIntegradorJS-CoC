@@ -1,0 +1,76 @@
+html {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+
+.degradado {
+    background-image: linear-gradient(to right, #1c3846, #1d5270);
+}
+
+.colorVerde {
+    color: #29a744;
+}
+
+
+.btnEnviar {
+    background-color: #96c93e;
+    color: whitesmoke;
+}
+
+.btnEnviar:hover {
+    background-color: #6a9b14;
+    color: rgb(26, 25, 25);
+}
+
+.hoverAmarillo:hover {
+    color: #fec900;
+}
+
+.hoverAmarilloFooter:hover {
+    color: #fec900;
+
+}
+
+nav {
+    background-color: #353a40;
+}
+
+.colorBadge {
+    background-color: #17a2b8;
+
+}
+
+.charla {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+/* Ajusta tamaño formulario de conviertete en orador */
+.formOrador {
+    width: 50%;
+}
+
+/* Fin formulario Orador */
+
+/* Inicio colores para Formulario en Tickets */
+.input-blue {
+    background-color: #cce5ff;
+}
+
+/* Fin colores para Formulario en Tickets */
+
+.card-porcentaje {
+    font-size: 1.2rem;
+}
+
+
+.borde-trainee {
+    border-color: #73c7d4;
+}
+
+footer,
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
